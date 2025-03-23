@@ -14,7 +14,7 @@ The **Stock Price Forecasting** is a powerful, user-friendly tool built to help 
 
 ## 🚀 Features
 
-- **🌍 Multi-Market Support**: Analyze stocks from the US, Germany, Japan, India, China (SSE), China (SZE), Hong Kong, Australia, and Canada.
+- **🌍 Multi-Market Support**: Analyze stocks from the US, Germany, Japan, India, Australia, Canada, China (SSE), China (SZE), and Hong Kong.
 - **🤖 Multiple Models**: Choose from **LSTM**, **ARIMA**, or **Prophet** for predictions.
 - **📊 Interactive Visualizations**: Beautiful, interactive charts powered by **Plotly**.
 - **📉 Technical Indicators**: Includes moving averages, RSI, MACD, and more.
@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/4268b835-4e2b-4722-a9b0-3c2a07041aa5
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-price-forecasting.git
+   git clone https://github.com/ninaddhatrak/Stock-Price-Forecasting.git
    cd Stock-Price-Forecasting
 
 2. Install dependencies:
@@ -88,7 +88,7 @@ https://github.com/user-attachments/assets/4268b835-4e2b-4722-a9b0-3c2a07041aa5
 
 ## 🎯 Usage
 
-1. **Select a Market**: Choose from US, EU, Japan, India, or China.
+1. **Select a Market**: Choose from US, Germany, Japan, India, Australia, Canada, China (SSE), China (SZE), or Hong Kong.
 2. **Enter Stock Symbol**: For example, `AAPL` for Apple.
 3. **Choose Date Range**: Select start and end dates for historical data.
 4. **Pick a Model**: Choose between **LSTM**, **ARIMA**, or **Prophet**.
