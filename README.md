@@ -6,7 +6,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Forecast stock prices**
+##**Forecast stock prices**
+
 The **Stock Price Forecasting** is a powerful, user-friendly tool built to help you forecast stock prices using advanced machine learning models. Whether you're an investor, trader, or data enthusiast, this project provides insights into future stock trends with just a few clicks.
 
 ---
